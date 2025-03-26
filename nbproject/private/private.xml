@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/ViewEmployeeFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/ManageEmployeeFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/UpdateEmployeesFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/dao/EmployeeDAO.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/dao/UserDAO.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/ReceptionistOptionFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/AddEmployeeFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/dao/ReceptionistDAO.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/ManagerOptionFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/ManageReceptionistsFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/ManageStoaksFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/AddReceptionistFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/ViewReceptionistFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/dbutil/DBConnection.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/UpdateReceptionistFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/pojo/ReceptionistPojo.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Emart/src/emart/gui/RemoveReceptionistFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
